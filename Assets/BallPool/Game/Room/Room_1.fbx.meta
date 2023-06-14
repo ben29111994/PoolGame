@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 187444cea2248db41a783e0aaf4cf67b
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Ekran
+    100002: Ki001
+    100004: Light
+    100006: Pol
+    100008: Senyak
+    100010: //RootNode
+    100012: Sexan001
+    100014: Sexan_apaki001
+    100016: Sexani_borter@001
+    100018: Windows_glass
+    100020: Cue
+    100022: Granud
+    100024: Room
+    100026: Table
+    100028: Table_Glass
+    100030: Table_Wall
+    100032: TV_Glass
+    400000: Ekran
+    400002: Ki001
+    400004: Light
+    400006: Pol
+    400008: Senyak
+    400010: //RootNode
+    400012: Sexan001
+    400014: Sexan_apaki001
+    400016: Sexani_borter@001
+    400018: Windows_glass
+    400020: Cue
+    400022: Granud
+    400024: Room
+    400026: Table
+    400028: Table_Glass
+    400030: Table_Wall
+    400032: TV_Glass
+    2300000: Ekran
+    2300002: Ki001
+    2300004: Light
+    2300006: Pol
+    2300008: Senyak
+    2300010: Sexan001
+    2300012: Sexan_apaki001
+    2300014: Sexani_borter@001
+    2300016: Windows_glass
+    2300018: Cue
+    2300020: Granud
+    2300022: Room
+    2300024: Table
+    2300026: Table_Glass
+    2300028: Table_Wall
+    2300030: TV_Glass
+    3300000: Ekran
+    3300002: Ki001
+    3300004: Light
+    3300006: Pol
+    3300008: Senyak
+    3300010: Sexan001
+    3300012: Sexan_apaki001
+    3300014: Sexani_borter@001
+    3300016: Windows_glass
+    3300018: Cue
+    3300020: Granud
+    3300022: Room
+    3300024: Table
+    3300026: Table_Glass
+    3300028: Table_Wall
+    3300030: TV_Glass
+    4300000: Windows_glass
+    4300002: Pol
+    4300004: Senyak
+    4300006: Sexani_borter@001
+    4300008: Sexan_apaki001
+    4300010: Sexan001
+    4300012: Ki001
+    4300014: Light
+    4300016: Ekran
+    4300018: Granud
+    4300020: Room
+    4300022: Table_Wall
+    4300024: Table_Glass
+    4300026: Table
+    4300028: Cue
+    4300030: TV_Glass
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

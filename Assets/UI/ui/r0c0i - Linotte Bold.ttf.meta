@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d16b08aeb18a53c4d801763386200cc7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: r0c0i Linotte
+  fontNames:
+  - r0c0i Linotte
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ae96832f75d6a31499555300266c9770, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
